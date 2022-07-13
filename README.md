@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Francis.
 - 👨‍💻 I work on projection models.
 - 🌇 Based in Ottawa.
-- :biking_man:  Love biking and listening to podcasts.
+- :biking_man:  Love biking and :books: reading.
 - 👀 I’m interested in Network Protocols, Distributed/Embedded Systems, Microservices, DevOps, Data Modeling, ML/AI and Databases.
 - 🌱 I’m currently learning MLOps 
 
