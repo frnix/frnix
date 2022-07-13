@@ -2,8 +2,8 @@
 - 👨‍💻 I work on projection models.
 - 🌇 Based in Ottawa.
 - :biking_man:  Love biking and listening to podcasts.
-- 👀 I’m interested in ML/AI and distributed/embedded systems.
-- 🌱 I’m currently learning MLOps
+- 👀 I’m interested in Network Protocols, Distributed/Embedded Systems, Microservices, DevOps, Data Modeling, ML/AI and Databases.
+- 🌱 I’m currently learning MLOps 
 
 
 <!---
