@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @frnix.
+- 👋 Hey, I’m Francis.
 - 👨‍💻 I work on projection models.
 - 🌇 Based in Ottawa.
 - :biking_man:  Love biking and listening to podcasts.
